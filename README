@@ -1,27 +1,19 @@
-#Python Expert Programming code examples package
+# Python Expert Programming, Second Edition code examples package
 
-This is package with code examples for Python Expert Programming, Second Edition book.
+This is package with code examples for [Python Expert Programming, Second Edition](https://www.packtpub.com/application-development/expert-python-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785886850) book.
 
 
-##Structure of this package
+## Structure of this package
 
-Content of this package is divided into directories that refer exactly to
-book chapters. Code may differ sligthly from snippets presented in book.
-Sometimes it contains additional utilities, functions, or comments, that
-are intended to improve readability. This should help you better understand
-topics discussed in the book.
+Content of this package is divided into directories that refer exactly to book chapters. Code may differ sligthly from snippets presented in book. Sometimes it contains additional utilities, functions, or comments, that are intended to improve readability. This should help you better understand topics discussed in the book.
 
-Each chapter directory contains `NOTES` file that explains the order in
-which scripts should be executed or additional information about its
-structure.
+Each chapter directory contains `NOTES` file that explains the order in which scripts should be executed or additional information about its structure.
 
-##How to use this package
+## How to use this package
 
-In order to use code examples it is recommended to use virtual environments
-as explained in Chapter 1, "Current Status of Python" of the book.
+In order to use code examples it is recommended to use virtual environments as explained in Chapter 1, "Current Status of Python" of the book.
 
-In short create new environment somwhere on you disk. Make sure you are using
-at least Python 3.5 version to create virtual environment
+In short create new environment somwhere on you disk. Make sure you are using at least Python 3.5 version to create virtual environment
 
     $ python3.5 -m venv book-env
 
