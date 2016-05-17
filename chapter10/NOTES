@@ -1,0 +1,14 @@
+Map of example scripts to Chapter sections
+
+1. Python standard test tools (unittest)
+  1.1 ./unittest_testing/test_primes.py
+
+2. unittest alternatives (pytest)
+  2.1 ./pytest_testing/test_primes.py
+
+3. Building a fake
+  3.1 ./test_with_fake/test_mailer.py
+
+4. Using mocks
+  4.1 ./test_with_mock/test_mailer.py
+  4.2 ./test_with_mock_patch/test_mailer.py

@@ -1,0 +1,9 @@
+Map of example scripts to Chapter sections
+
+1. Common patterns
+  1.1 ./example_with_version/setup.py
+  1.2 ./example_with_readme_conversion/setup.py
+
+2. Namespace packages
+  2.1 ./implicit_namespace_package/setup.py
+  2.2 ./explicit_namespace_package/setup.py

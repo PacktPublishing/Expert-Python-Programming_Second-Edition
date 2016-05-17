@@ -1,0 +1,5 @@
+Map of example scripts to Chapter sections
+
+1. Deterministic caching
+  1.1 ./memoize_decorator.py
+  1.2 ./memoize_lru_cache.py

@@ -1,0 +1,30 @@
+Map of example scripts to Chapter sections
+
+1. Subclassing built-in types
+  1.1 ./subclassing_builtin_types.py
+
+2. Accessing methods from superclasses
+  2.1 ./super_pizza.py
+
+3. Descriptors
+  3.1 ./descriptors_revealing_access.py
+  3.2 ./descriptors_init_on_access.py
+  3.3 ./descriptors_lazy_class_attribute.py
+
+4. Properties
+  4.1 ./properties_explicit.py
+  4.1 ./properites_decorator.py
+
+5. Class decorators
+  5.1 ./class_decorator.py
+
+6. Using the __new__() method to override instance creation process
+  6.1 ./new_method_instance_counting.py
+  6.2 ./new_method_nonzero.py
+
+7. Metaclasses
+  7.1 ./metaclasses.py
+
+8. Hy
+  8.1 ./hyllo.hy
+  8.2 ./py_hyllo.py

@@ -1,0 +1,20 @@
+Map of example scripts to Chapter sections
+
+1. An example of a threaded application
+  1.1 ./synchronous.py
+  1.2 ./threads_one_per_item.py
+  1.3 ./threads_thread_pool.py
+  1.4 ./threads_two_way_queues.py
+  1.5 ./threads_exceptions_and_throttling.py
+
+2. Multiprocessing
+  2.1 ./multiprocessing_forks.py
+  2.2 ./multiprocessing_basics.py
+  2.3 ./multiprocessing_pipes.py
+  2.4 ./multiprocessing_process_pool.py
+
+3. Asynchronous programming
+  3.1 ./async_print.py
+  3.2 ./async_cooperative_wait.py
+  3.3 ./async_aiohttp.py
+  3.4 ./async_futures.py

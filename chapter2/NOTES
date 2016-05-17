@@ -1,0 +1,21 @@
+Map of example scripts to Chapter sections
+
+1. Lists and tuples:
+  1.1 ./lists.py
+
+2. Iterators
+  2.1 ./iterators.py
+
+3. The yield statement
+  3.1 ./yield_fibonacci.py
+  3.2 ./yield_chaining_generators.py
+  3.3 ./yield_psychologist.py
+
+4. Decorators
+  4.1 ./decorators_repeat.py
+  4.2 ./decorators_repeat_with_metadata.py
+
+5. Context managers - the with statement
+  5.1 ./content_manager_as_class.py
+
+

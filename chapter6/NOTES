@@ -1,0 +1,15 @@
+All scripts for Chapter 6 form one `webxample` package
+where different parts of example illustate different
+topics (chapter sections)
+
+Map of example scripts to Chapter sections
+
+1. Deployment automation using Fabric
+  1.1 ./webxample-package/fabfile.py
+
+2. Deployment using a package
+  2.1 ./webxample-package/setup.py
+  2.2 ./webxample-package/webxample/*
+
+3. Using process supervision tools
+  3.1 ./webxample-package/circus.ini

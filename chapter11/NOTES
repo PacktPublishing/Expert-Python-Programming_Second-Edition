@@ -1,0 +1,8 @@
+Map of example scripts to Chapter sections
+
+1. Macro-profiling
+  1.1 ./cprofile_profiling.py
+
+2. Profiling memory
+  2.1 ./graphing_backreferences.py
+  2.2 ./cyclic_references.py

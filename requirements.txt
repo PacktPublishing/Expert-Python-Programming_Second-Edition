@@ -1,0 +1,28 @@
+# Chapter 3
+Hy
+
+# Chapter 5
+wheel
+pypandoc
+
+# Chapter 6
+circus
+fabric3
+
+# Chapter 7
+cython
+cffi
+
+# Chapter 10
+pytest
+nose
+
+# Chapter 11
+objgraph
+
+# Chapter 13
+python-gmaps
+aiohttp
+
+# Chapter 14
+zope.interface

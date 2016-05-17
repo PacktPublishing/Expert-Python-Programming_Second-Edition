@@ -1,0 +1,21 @@
+Map of example scripts to Chapter sections
+
+1. Pure C extensions
+  1.1 ./fibonacci_c/*
+  1.2 ./fibonacci_c_error_handling/*
+  1.3 ./fibonacci_c_releasing_gil/*
+
+2. Cython as a source to source compiler
+  2.1 ./fibonacci_cythonize/*
+  2.2 ./fibonacci_cythonize_optionally/*
+
+3. Cython as a language
+  3.1 ./fibonacci_cython/*
+  3.2 ./fibonacci_cython_nogil/*
+
+4. Calling C functions using ctypes
+  4.1 ./ctypes_libc_printf.py
+  4.2 ./ctypes_qsort.py
+
+5. CFFI
+  5.1 ./cffi_qsort.py

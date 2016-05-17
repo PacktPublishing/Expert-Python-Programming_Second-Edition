@@ -1,0 +1,16 @@
+Map of example scripts to Chapter sections
+
+1. Creational patterns
+  1.1 ./creational_singleton.py
+  1.2 ./creational_borg.py
+
+2. Adapter
+  2.1 ./structural_adapter.py
+
+3. Interfaces
+  3.1 ./interfaces_zope.py
+  3.2 ./interfaces_abc.py
+  3.3 ./interfaces_annotations.py
+
+4. Observer
+  4.1 ./observer.py

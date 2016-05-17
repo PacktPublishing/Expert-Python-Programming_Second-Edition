@@ -1,0 +1,10 @@
+recursive-include webxample/myapp/templates *.html
+recursive-include webxample/myapp/static *.js *.css
+recursive-inlcude webxample/myapp/static *.css
+recursive-include webxample/locale *.po *.mo
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+
+include README.md
+include MANIFEST.in
