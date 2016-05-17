@@ -1,4 +1,4 @@
-# Expert-Python-Programming_Second-Edition
+# Expert Python Programming, Second Edition
  Become an ace Python programmer by learning best coding practices and advance-level concepts with Python 3.5
  
  This is package with code examples for [Python Expert Programming, Second Edition](https://www.packtpub.com/application-development/expert-python-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785886850) book.
