@@ -1,10 +1,9 @@
-# Python Expert Programming code examples package
+#Python Expert Programming code examples package
 
-This is package with code examples for Python Expert Programming
-(2nd edition) book.
+This is package with code examples for Python Expert Programming, Second Edition book.
 
 
-## Structure of this package
+##Structure of this package
 
 Content of this package is divided into directories that refer exactly to
 book chapters. Code may differ sligthly from snippets presented in book.
@@ -16,7 +15,7 @@ Each chapter directory contains `NOTES` file that explains the order in
 which scripts should be executed or additional information about its
 structure.
 
-## How to use this package
+##How to use this package
 
 In order to use code examples it is recommended to use virtual environments
 as explained in Chapter 1, "Current Status of Python" of the book.
