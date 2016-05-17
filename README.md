@@ -37,3 +37,9 @@ Successful activation will change your shell prompt by adding environment name p
 Now you can finally use `pip` to install all packages that are mentioned in book and used in example scripts:
 
     (book-env)$ pip install -r requirements.txt
+
+
+## Want to learn more on Python?
+*[Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781785886850)
+*[Mastering Object-oriented Python](https://www.packtpub.com/application-development/mastering-object-oriented-python?utm_source=github&utm_medium=repository&utm_campaign=9781785886850)
+*[Mastering Python](https://www.packtpub.com/application-development/mastering-python?utm_source=github&utm_medium=repository&utm_campaign=9781785886850)
