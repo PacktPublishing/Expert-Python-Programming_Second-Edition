@@ -12,21 +12,21 @@ Each chapter directory contains `NOTES` file that explains the order in which sc
 
 ## How to use this package
 
-In order to use code examples it is recommended to use virtual environments as explained in Chapter 1, "Current Status of Python" of the book.
+In order to use code examples, it is recommended to use virtual environments as explained in Chapter 1, Current Status of Python, of the book.
 
-In short create new environment somwhere on you disk. Make sure you are using at least Python 3.5 version to create virtual environment
+In short, create new environment somwhere on you disk. Make sure you are using at least Python 3.5 version to create virtual environment
 
     $ python3.5 -m venv book-env
 
-Sometimes book covers topic of compatibility issues between Python 2 and Python 3. If you want to run scripts in older versions of Python, use `virtualenv` tool to create additional environment on your disk. Make sure to name it differently so it will be clear which environment you are using in given shell session:
+Book also covers topic of compatibility issues between Python 2 and Python 3 in certain sections. If you want to run scripts in older versions of Python, use `virtualenv` tool to create additional environment on your disk. Make sure to name it differently, so it will be clear which environment you are using in given shell session:
 
     $ virtualenv -p python2.7 book-py27-env
 
-If your environment is already created you are ready to activate it so all installed packages will be isolated from your base system Python environment. If you are using bash execute following line:
+If your environment is already created, you are ready to activate it so all installed packages will be isolated from your base system Python environment. If you are using bash, execute the following line:
 
     $ source book-env/bin/activate
 
-If you are working in Windows command line or Power Shell then type:
+If you are working in Windows command line or Power Shell, then type:
 
     > book-env\Scripts\activate
 
@@ -34,7 +34,7 @@ Successful activation will change your shell prompt by adding environment name p
 
     (book-env)$
 
-Now you can finally use `pip` to install all packages that are mentioned in book and used in example scripts:
+Now, you can finally use `pip` to install all packages that are mentioned in book and used in example scripts:
 
     (book-env)$ pip install -r requirements.txt
 
