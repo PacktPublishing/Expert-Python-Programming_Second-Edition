@@ -1,5 +1,5 @@
 """
-"Iterators" section example of a sinple count down iterator
+"Iterators" section example of a simple count down iterator
 
 """
 from time import sleep
